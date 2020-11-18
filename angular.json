@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-todo-app"
+    }
+  },
+  "defaultProject": "angular-todo-app",
+  "cli": {
+    "analytics": "4d295748-68c5-465c-8a82-a5f832c49823"
+  }
 }
